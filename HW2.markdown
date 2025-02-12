@@ -1,5 +1,5 @@
 ---
 layout: page
 title: HW2
-permalin: /HW2/
+permalink: /HW2/
 ---
