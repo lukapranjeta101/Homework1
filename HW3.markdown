@@ -12,4 +12,4 @@ title: Coconut Bread Pudding
 
 
 The classic bread pudding is enhanced with coconut flakes and coconut milk.
-
+<img src="cupcake-1.jpg" alt="Girl in a jacket" style="width:300px;height:350px;">
