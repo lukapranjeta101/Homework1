@@ -1,6 +1,6 @@
 ---
 layout: page
-title: **Coconut Bread Pudding**
+title: Coconut Bread Pudding
 ---
 
 
