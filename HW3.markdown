@@ -49,5 +49,5 @@ In a large bowl, combine sugar, eggs, egg yolk, coconut milk, cinnamon, nutmeg, 
 Bake on a cookie sheet in preheated oven for 25 minutes. Sprinkle top with remaining 1/2 cup flaked coconut. Continue baking for 25 to 30 minutes, or until center springs back when lightly tapped.  
 
 ## **Reviews (78)**  
-Check out our Community Guidelines about reviews.
+Check out our [Community Guidelines](https://www.allrecipes.com/about-us-6648102#toc-community-guidelines) about reviews.
 
