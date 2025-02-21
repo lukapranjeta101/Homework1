@@ -19,7 +19,7 @@ The classic bread pudding is enhanced with coconut flakes and coconut milk.
 |------------|----------|----------------|
 | 20 mins    | 1 hr     | 30 mins        |
 | **Total Time** | **Servings** | **Yield**           |
-| 1 hr 50 mins | 12       | 1 - 9x13 inch baking dish |
+| 1 hr 50 mins | 12       | _1 - 9x13 inch baking dish_ |
 
 ## Ingredients
 
