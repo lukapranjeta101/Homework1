@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Homeworks
+title: **Coconut Bread Pudding**
 ---
 
 
@@ -10,6 +10,6 @@ title: Homeworks
 
 
 
-**Coconut Bread Pudding**
+
 The classic bread pudding is enhanced with coconut flakes and coconut milk.
 
